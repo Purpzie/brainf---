@@ -9,19 +9,15 @@ so 'discord.js' as Discord
 so './config.json' as config
 very client is new Discord dose Client
 
-shh gotta use this because for some reason it won't let me pass BOTH a string and a function into another function
-such readyToBork
-    plz console.loge with 'dogebot is ready'
-wow
-plz client.on with 'ready' readyToBork
+client dose on with 'ready' much EXCITE
+    plz console.loge with 'dogebot is ready!!1!!'
+wow&
 
-such borkAtMessage much bork
+client dose on with 'message' much bork
     rly bork.content is 'ping'
-        bork dose reply with 'bork'
-        very user is bork.author
-        plz console.loge with 'user used command!!!1! '+user.username+'#'+user.discriminator+' ('+user.id+')'
-    wow
-wow
-plz client.on with 'message' borkAtMessage
+    bork dose reply with 'bork'
+    very user is bork.author
+    plz console.loge with 'user used command!!!1! '+user.username+'#'+user.discriminator+' ('+user.id+')'
+wow&
 
 client dose login with config.token
