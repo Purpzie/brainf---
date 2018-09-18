@@ -17,7 +17,9 @@ plz client.on with 'ready' readyToBork
 
 such borkAtMessage much bork
     rly bork.content is 'ping'
-        bork dose reply 'bork'
+        bork dose reply with 'bork'
+        very user is bork.author
+        plz console.loge with 'user used command!!!1! '+user.username+'#'+user.discriminator+' ('+user.id+')'
     wow
 wow
 plz client.on with 'message' borkAtMessage
