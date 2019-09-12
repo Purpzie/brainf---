@@ -2,6 +2,7 @@ HAI 1.2
 OBTW
   takes input and checks if it's in the mandelbrot set
   will respond with "WIN" or "FAIL"
+  try online at https://repl.it/@Purpzie/mandelol
 TLDR
 
 VISIBLE SMOOSH ">>> DUE TO A LANGUAGE LIMITATION <<< :)"...
