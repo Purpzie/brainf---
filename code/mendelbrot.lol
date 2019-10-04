@@ -6,7 +6,7 @@ OBTW
 TLDR
 
 VISIBLE SMOOSH ">>> DUE TO A LANGUAGE LIMITATION <<< :)"...
-AN "input is divided by 100 so input it as if it was a decimal:)" MKAY
+AN "input is divided by 100:)" MKAY
 I HAS A x, I HAS A y
 VISIBLE "real part?", GIMMEH x
 VISIBLE "imaginary part?", GIMMEH y
